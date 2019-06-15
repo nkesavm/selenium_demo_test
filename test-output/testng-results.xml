@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KSRTC Automation test suite" duration-ms="70729" started-at="2019-06-02T11:20:47Z" finished-at="2019-06-02T11:21:58Z">
+    <groups>
+    </groups>
+    <test name="KSRTC Automation test cases" duration-ms="70729" started-at="2019-06-02T11:20:47Z" finished-at="2019-06-02T11:21:58Z">
+      <class name="inkeralartc.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="6307" started-at="2019-06-02T11:20:47Z" finished-at="2019-06-02T11:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="homePageTitleTest" duration-ms="13" started-at="2019-06-02T11:20:53Z" finished-at="2019-06-02T11:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="635" started-at="2019-06-02T11:20:53Z" finished-at="2019-06-02T11:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="5964" started-at="2019-06-02T11:20:54Z" finished-at="2019-06-02T11:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageHeaderTest()[pri:2, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="homePageHeaderTest" duration-ms="45" started-at="2019-06-02T11:21:00Z" finished-at="2019-06-02T11:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="627" started-at="2019-06-02T11:21:00Z" finished-at="2019-06-02T11:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="31367" started-at="2019-06-02T11:21:01Z" finished-at="2019-06-02T11:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInLinkDisplayTest()[pri:3, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="signInLinkDisplayTest" duration-ms="43" started-at="2019-06-02T11:21:32Z" finished-at="2019-06-02T11:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="640" started-at="2019-06-02T11:21:32Z" finished-at="2019-06-02T11:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="5566" started-at="2019-06-02T11:21:33Z" finished-at="2019-06-02T11:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registrationLinkDisplayTest()[pri:4, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="registrationLinkDisplayTest" duration-ms="30" started-at="2019-06-02T11:21:38Z" finished-at="2019-06-02T11:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="627" started-at="2019-06-02T11:21:38Z" finished-at="2019-06-02T11:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="5478" started-at="2019-06-02T11:21:39Z" finished-at="2019-06-02T11:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="viewTicketLinkDisplayTest()[pri:5, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="viewTicketLinkDisplayTest" duration-ms="28" started-at="2019-06-02T11:21:45Z" finished-at="2019-06-02T11:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewTicketLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="626" started-at="2019-06-02T11:21:45Z" finished-at="2019-06-02T11:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="5769" started-at="2019-06-02T11:21:45Z" finished-at="2019-06-02T11:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cancellationLinkDisplayTest()[pri:6, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="cancellationLinkDisplayTest" duration-ms="28" started-at="2019-06-02T11:21:51Z" finished-at="2019-06-02T11:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancellationLinkDisplayTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="629" started-at="2019-06-02T11:21:51Z" finished-at="2019-06-02T11:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="setUp" is-config="true" duration-ms="5563" started-at="2019-06-02T11:21:52Z" finished-at="2019-06-02T11:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="registrationLinkClickTest()[pri:7, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="registrationLinkClickTest" duration-ms="1" started-at="2019-06-02T11:21:57Z" finished-at="2019-06-02T11:21:57Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at in.keralartc.qa.pages.HomePage.validateRegLink(HomePage.java:54)
+at inkeralartc.qa.testcases.HomePageTest.registrationLinkClickTest(HomePageTest.java:63)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationLinkClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:inkeralartc.qa.testcases.HomePageTest@3e6fa38a]" name="tearDown" is-config="true" duration-ms="708" started-at="2019-06-02T11:21:57Z" finished-at="2019-06-02T11:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- inkeralartc.qa.testcases.HomePageTest -->
+    </test> <!-- KSRTC Automation test cases -->
+  </suite> <!-- KSRTC Automation test suite -->
+</testng-results>

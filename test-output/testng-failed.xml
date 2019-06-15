@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KSRTC Automation test suite]">
+  <listeners>
+    <listener class-name="in.keralartc.qa.ExtentReport.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="KSRTC Automation test cases(failed)">
+    <classes>
+      <class name="inkeralartc.qa.testcases.HomePageTest">
+        <methods>
+          <include name="registrationLinkClickTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- inkeralartc.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- KSRTC Automation test cases(failed) -->
+</suite> <!-- Failed suite [KSRTC Automation test suite] -->

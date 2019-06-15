@@ -1,0 +1,12 @@
+<suite name="KSRTC Automation test suite">
+	<listeners>
+		<listener
+			class-name="in.keralartc.qa.ExtentReport.ExtentReporterNG" />
+	</listeners>
+	<test name="KSRTC Automation test cases">
+		<classes>
+			<class name="inkeralartc.qa.testcases.HomePageTest" />
+			
+		</classes>
+	</test>
+</suite>

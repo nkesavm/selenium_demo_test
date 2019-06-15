@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 96.269 sec <<< FAILURE!
+registrationLinkClickTest(inkeralartc.qa.testcases.HomePageTest)  Time elapsed: 0.066 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at in.keralartc.qa.pages.HomePage.validateRegLink(HomePage.java:54)
+	at inkeralartc.qa.testcases.HomePageTest.registrationLinkClickTest(HomePageTest.java:63)
+
